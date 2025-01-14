@@ -2,8 +2,6 @@
 
 Меня зовут Николай, я начинающий специалист в сфере информационной безопасности.  
 
-📄 [Мое резюме](https://docs.google.com/document/d/ВашID) 
-
 🎓 В настоящее время я прохожу обучение в [Нетология](https://netology.ru/) по специальности «Специалист по информационной безопасности». 
 
 - 🚀 Моей главной целью является становление профессионалом в этой области.
@@ -11,31 +9,26 @@
 - 🛡️ Изучаю анализ уязвимостей, пентестинг и аудит информационных систем.
 - 💡 Развиваю навыки в области анализа угроз и реверс-инжиниринга.
 
+### 🔗 Мои ресурсы:
+<div align="center">
+  <a href="https://t.me/darkushhhh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:darkushhhh@icloud.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=linkedin&label=&color=7239a9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://docs.google.com/document/d/1BIWZx1Tus-PKVaffvQkqPAIBYpbdwJzW/edit?usp=sharing&ouid=102484314031809643977&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CV&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
+  </a>
+  <a href="https://github.com/darkushhhh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=visualstudio&label=&color=6b8e23&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
+  </a>
+</div>
+
 ---
 
-## 🔗 Мои ресурсы:
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/darkushhhh) 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/darkushhhh)   
-[![Email](https://img.shields.io/badge/-iCloud-blue?logo=icloud&logoColor=white)](mailto:darkushhhh@icloud.com)
-
----
-
-## 🛠️ Технологии и инструменты:
-### Технологии:
-![OWASP](https://img.shields.io/badge/-OWASP-black?logo=owasp&logoColor=white)  
-![AppSec](https://img.shields.io/badge/-Application%20Security-red?logo=security&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?logo=kali-linux&logoColor=white)  
-![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-orange?logo=security&logoColor=white)  
-
-### Инструменты:
-![Wireshark](https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white)  
-![Hashcat](https://img.shields.io/badge/-Hashcat-green?logo=hashnode&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-red?logo=burp-suite&logoColor=white)  
-![Zap Proxy](https://img.shields.io/badge/-Zap%20Proxy-purple?logo=owasp&logoColor=white)  
-![Nmap](https://img.shields.io/badge/-Nmap-green?logo=nmap&logoColor=white)  
-![Hydra](https://img.shields.io/badge/-Hydra-blue?logo=hydra&logoColor=white)  
-![hping3](https://img.shields.io/badge/-hping3-black?logo=linux&logoColor=white)  
-![SQLMap](https://img.shields.io/badge/-SQLMap-orange?logo=sqlite&logoColor=white)  
+## 🛠️ Технологический стек:
+![OWASP](https://img.shields.io/badge/-OWASP-forestgreen?logo=owasp&logoColor=white) ![AppSec](https://img.shields.io/badge/-Application%20Security-red?logo=security&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?logo=kali-linux&logoColor=white) ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-orange?logo=security&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white) ![Hashcat](https://img.shields.io/badge/-Hashcat-green?logo=hashnode&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-red?logo=burp-suite&logoColor=white) ![Zap Proxy](https://img.shields.io/badge/-Zap%20Proxy-purple?logo=owasp&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-green?logo=nmap&logoColor=white) ![Hydra](https://img.shields.io/badge/-Hydra-blue?logo=hydra&logoColor=white) ![hping3](https://img.shields.io/badge/-hping3-yellow?logo=linux&logoColor=white) ![SQLMap](https://img.shields.io/badge/-SQLMap-orange?logo=sqlite&logoColor=white)
 
 ---
 
@@ -50,3 +43,6 @@
 | [Веб-приложения](https://drive.google.com/file/d/1TGHo5F8azIcLYGtdp00urNrPPiscLZEG/view?usp=sharing) | 11/2024 - 01/2025 |
 
 ---
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
