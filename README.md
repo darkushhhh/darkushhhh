@@ -41,6 +41,7 @@
 | [Безопасность операционных систем, системное программирование](https://drive.google.com/file/d/1JM0tpXo_MDfh6KU2nW5AaVgvPU5Np3tD/view?usp=sharing) | 08/2024 - 10/2024 |
 | [Современная разработка ПО](https://drive.google.com/file/d/1l4t4C6hLR5xie5yAuBP0mbgBTtoGmiHH/view?usp=sharing) | 10/2024 - 11/2024 |
 | [Веб-приложения](https://drive.google.com/file/d/1TGHo5F8azIcLYGtdp00urNrPPiscLZEG/view?usp=sharing) | 11/2024 - 01/2025 |
+| [Аttack & Defence](https://drive.google.com/file/d/1eV7bsEmyKZxL95s3DLScZ_F1j7CWuPVr/view?usp=sharing) | 01/2025 - 02/2025 |
 
 ---
 <p align="center">
