@@ -15,7 +15,7 @@
   <a href="mailto:darkushhhh@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=linkedin&label=&color=7239a9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://docs.google.com/document/d/1BIWZx1Tus-PKVaffvQkqPAIBYpbdwJzW/edit?usp=sharing&ouid=102484314031809643977&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1c0ygzxoYdn-17Wd7AcfrCdbVXzLVpn4t/edit?usp=sharing&ouid=102484314031809643977&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CV&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
   </a>
   <a href="https://github.com/darkushhhh" target="_blank">
