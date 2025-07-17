@@ -54,7 +54,7 @@
 
 ---
 
-## 🎓 Professional Diploma
+## 🎓 Professional Diploma:
 
 ---
 
