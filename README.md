@@ -59,7 +59,7 @@
 ---
 
 ## 📜 Certifications:
-| Курс | Дата |
+| Certification | Date |
 |------|------|
 | [Реагирование на инциденты ИБ и проактивный поиск угроз](https://drive.google.com/file/d/1OMtkcKxy3WaSCyMZkMQZ3G7w_ROxtkI9/view?usp=sharing) | 04/2025 - 05/2025 |
 | [Современная киберпреступность и методы противодействия](https://drive.google.com/file/d/1CQytBgVaOPF7MjHVae8Ig4GEyJ6cm3eg/view?usp=sharing) | 02/2025 - 04/2025 |
