@@ -73,3 +73,5 @@
 | [Git — система контроля версий](https://drive.google.com/file/d/1fRkB_uGTuwbzQMWDst_ZkcDZ8hQQZJ44/view?usp=sharing) | 09/2024 - 09/2024 |
 | [Сети передачи данных и безопасность](https://drive.google.com/file/d/12hnGhZUjJMjmh_b311b7h-lVieWZBlp7/view?usp=sharing) | 07/2024 - 08/2024 |
 | [Основы информационной безопасности](https://drive.google.com/file/d/1s7UWv8PEC28O2XkPg7NjcvhNoy71of5L/view?usp=sharing) | 05/2024 - 06/2024 |
+
+---
