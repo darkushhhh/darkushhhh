@@ -64,6 +64,7 @@
 ## 📜 Certifications:
 | Certification | Date |
 |------|------|
+| [Certificate F6](https://drive.google.com/file/d/1KTOtlPDKy_Ox9XhsA8cnxSDgvFfWEup0/view?usp=sharing) | 05/2024 - 07/2025 |
 | [Реагирование на инциденты ИБ и проактивный поиск угроз](https://drive.google.com/file/d/1OMtkcKxy3WaSCyMZkMQZ3G7w_ROxtkI9/view?usp=sharing) | 04/2025 - 05/2025 |
 | [Современная киберпреступность и методы противодействия](https://drive.google.com/file/d/1CQytBgVaOPF7MjHVae8Ig4GEyJ6cm3eg/view?usp=sharing) | 02/2025 - 04/2025 |
 | [Аttack & Defence](https://drive.google.com/file/d/1eV7bsEmyKZxL95s3DLScZ_F1j7CWuPVr/view?usp=sharing) | 01/2025 - 02/2025 |
