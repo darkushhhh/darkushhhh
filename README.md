@@ -42,7 +42,7 @@
 
 ---
 
-## 🎓 Professional Diploma:
+## 🎓 Diploma:
 | Diploma Title | Issuing Organization | Course Name | Study Period | Credential Link |
 |----------------|----------------------|-------------|--------------|-----------------|
 | Специалист по безопасности компьютерных систем и сетей | Нетология | [Специалист по информационной безопасности: расширенный курс](https://netology.ru/programs/informationsecurity) | 05.2024 – 07.2025 | [Ссылка на диплом](https://drive.google.com/file/d/1yr1loA_OI-VECHNTcd9-vM6QtvJcCK-0/view?usp=sharing) |
