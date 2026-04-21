@@ -15,7 +15,7 @@
   <a href="mailto:darkushhhh@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=linkedin&label=&color=7239a9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://docs.google.com/document/d/1UYwabzVNQWV9mTMnmanZiwhgJ8QiujLl/edit?usp=sharing&ouid=102484314031809643977&rtpof=true&sd=true">
+  <a href="https://docs.google.com/document/d/1t7MN_brF2V99IgIDOH6YRukadjjEjNE_oNMiuNaGFS4/edit?usp=sharing">
     <img src="https://img.shields.io/static/v1?message=CV&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
   </a>
 </div>
