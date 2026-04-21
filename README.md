@@ -18,9 +18,6 @@
   <a href="https://docs.google.com/document/d/1UYwabzVNQWV9mTMnmanZiwhgJ8QiujLl/edit?usp=sharing&ouid=102484314031809643977&rtpof=true&sd=true">
     <img src="https://img.shields.io/static/v1?message=CV&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
   </a>
-  <a href="https://github.com/darkushhhh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=visualstudio&label=&color=6b8e23&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
-  </a>
 </div>
 
 ---
